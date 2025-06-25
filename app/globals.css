@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import 'swiper/css';
+@import 'swiper/css/navigation';
+@import 'swiper/css/pagination';
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap');
+
+body{
+  font-family:'Quicksand', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Quicksand', sans-serif;
+}
