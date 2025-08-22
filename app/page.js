@@ -57,7 +57,7 @@ export default function Home() {
       {/* Hero Section */}
       <section
         className="relative min-h-[80vh] flex flex-col justify-center items-center text-center bg-cover bg-center opacity-80"
-        style={{ backgroundImage: "url('/tori-banner.png')" }}
+        style={{ backgroundImage: "url('/tori-banner.webp')" }}
       >
         <div className="absolute inset-0 bg-black/75 z-0"></div>
 
